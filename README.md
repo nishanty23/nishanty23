@@ -8,3 +8,17 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Android+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=500&height=50">
 </p>
+## 🚀 About Me
+
+- 🎓 B.Tech CSE (Google Cloud Platform Specialization)
+- 💻 Passionate about Software Development
+- 📱 Android Developer using Kotlin & XML
+- 🌐 Full Stack Developer using Node.js
+- ☁️ Learning Cloud & DevOps
+- 📫 Reach me: your-email@gmail.com
+
+## 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,js,html,css,nodejs,mongodb,firebase,git,github,gcp,vscode,androidstudio" />
+</p>
