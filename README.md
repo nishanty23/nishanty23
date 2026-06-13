@@ -15,10 +15,16 @@
 - 📱 Android Developer using Kotlin & XML
 - 🌐 Full Stack Developer using Node.js
 - ☁️ Learning Cloud & DevOps
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: nishantyadav23082004@gmail.com
 
 ## 🛠 Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,js,html,css,nodejs,mongodb,firebase,git,github,gcp,vscode,androidstudio" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanty23&show_icons=true&theme=tokyonight"/>
 </p>
