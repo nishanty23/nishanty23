@@ -43,8 +43,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-&nbsp;
-
 <a href="mailto:nishantyadav23082004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
@@ -52,4 +50,16 @@
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nishant-yadav-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  &nbsp;
+
+  <a href="mailto:nishantyadav23082004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
