@@ -4,6 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Android+Developer;Full+Stack+Developer;Google+Cloud+Learner" alt="Typing SVG" />
 </p>
 
+## 🚀 About Me
+
+🎓 B.Tech CSE (Google Cloud Platform)
+
+💻 Passionate about Software Development
+
+📱 Android Development using Kotlin & XML
+
+🌐 Full Stack Development using Node.js
+
+☁️ Exploring Cloud & DevOps
+
+🎯 Goal: Become a Software Developer
+
 <p align="center">
   <a href="https://github.com/nishanty23">
     <img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile+Views&color=0e75b6&style=flat" />
