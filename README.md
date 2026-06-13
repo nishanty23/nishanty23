@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nishant Yadav</h1>
+<table>
+<tr>
+<td width="60%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Android+Developer;Full+Stack+Developer;Google+Cloud+Learner" alt="Typing SVG" />
-</p>
+# Hi 👋, I'm Nishant Yadav
 
-## 🚀 About Me
+### Software Developer | Android Developer | Full Stack Developer
 
-🎓 B.Tech CSE (Google Cloud Platform)
+🎓 B.Tech CSE
 
 💻 Passionate about Software Development
 
@@ -18,6 +18,16 @@
 
 🎯 Goal: Become a Software Developer
 
+</td>
+
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+
+</td>
+</tr>
+</table>
+
 <p align="center">
   <a href="https://github.com/nishanty23">
     <img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile+Views&color=0e75b6&style=flat" />
@@ -27,9 +37,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Yadav</h1>
 <h3 align="center">Software Developer | Android Developer | Full Stack Developer</h3>
 
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" />
-</p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Android+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=500&height=50">
 </p>
