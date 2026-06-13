@@ -28,3 +28,27 @@
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanty23&show_icons=true&theme=tokyonight"/>
 </p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanty23&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=nishanty23&theme=tokyonight" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nishant-yadav-/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:nishantyadav23082004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
