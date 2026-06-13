@@ -52,13 +52,4 @@
 <img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<a class="github-button"
-   href="https://github.com/nishanty23/nishanty23"
-   data-icon="octicon-star"
-   data-size="large"
-   data-show-count="true"
-   aria-label="Star nishanty23/nishanty23 on GitHub">
-   Star
-</a>
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+⭐️ From [nishanty23](https://github.com/nishanty23)
