@@ -5,6 +5,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Android+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=500&height=50">
 </p>
+
+<img align="right" alt="Coding" width="380" src="https://github.com/user-attachments/assets/14cdc98b-2885-49f0-88db-09504abdcc3f">
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE (Google Cloud Platform Specialization)
