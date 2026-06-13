@@ -43,6 +43,8 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:nishantyadav23082004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
