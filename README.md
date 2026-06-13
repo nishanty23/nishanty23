@@ -51,3 +51,5 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+[![GitHub stars](https://img.shields.io/github/stars/nishanty23/nishanty23?style=social)](https://github.com/nishanty23/nishanty23/stargazers)
