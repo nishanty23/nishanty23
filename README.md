@@ -1,10 +1,17 @@
+# Hi 👋, I'm Nishant Yadav
+
+### Software Developer | Android Developer | Full Stack Developer
+
+<p align="center">
+  <a href="https://github.com/nishanty23">
+    <img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile+Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
 <table>
 <tr>
 <td width="60%">
 
-# Hi 👋, I'm Nishant Yadav
-
-### Software Developer | Android Developer | Full Stack Developer
 
 🎓 B.Tech CSE
 
@@ -28,11 +35,7 @@
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/nishanty23">
-    <img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile+Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+
 <img width="800" height="600" alt="gif3" src="https://github.com/user-attachments/assets/14cdc98b-2885-49f0-88db-09504abdcc3f" />
 <h1 align="center">Hi 👋, I'm Nishant Yadav</h1>
 <h3 align="center">Software Developer | Android Developer | Full Stack Developer</h3>
