@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Nishant Yadav</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Android+Developer;Full+Stack+Developer;Google+Cloud+Learner" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/nishanty23">
+    <img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile+Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 <img width="800" height="600" alt="gif3" src="https://github.com/user-attachments/assets/14cdc98b-2885-49f0-88db-09504abdcc3f" />
 <h1 align="center">Hi 👋, I'm Nishant Yadav</h1>
 <h3 align="center">Software Developer | Android Developer | Full Stack Developer</h3>
