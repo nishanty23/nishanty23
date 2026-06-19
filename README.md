@@ -22,20 +22,6 @@
 <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,js,html,css,nodejs,mongodb,firebase,git,github,gcp,vscode,androidstudio" />
 </p>
 
-## 🚀 Featured Projects
-
-### 🔐 Smart Security Pad
-Smart Android security application designed to enhance device protection and user safety through intelligent security features, built using Kotlin, XML, and Firebase.
-
-### 🗺️ Route Smart
-Android-based route optimization and navigation solution that helps users discover efficient travel paths and improve route planning, developed using Kotlin, XML, and modern Android development practices.
-
-### 🌐 Citizen Helpdesk
-Full-stack grievance redressal platform that enables citizens to file, track, and provide feedback on complaints, built using Node.js, JavaScript, HTML, CSS, and MongoDB.
-
-### 📱 GrievanceHub
-Android grievance management application that streamlines complaint submission, tracking, and resolution workflows, developed using Kotlin, XML, Firebase, and Android Studio.
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -48,14 +34,6 @@ Android grievance management application that streamlines complaint submission, 
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=nishanty23&theme=tokyonight&cache_seconds=600" />
-</p>
-
-## 📋 Profile Summary
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanty23&theme=tokyonight" />
 </p>
 
 ## 🤝 Connect With Me
