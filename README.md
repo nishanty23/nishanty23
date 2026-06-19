@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=torvalds" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nishanty23&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 ## 🤝 Connect With Me
