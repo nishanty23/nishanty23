@@ -42,16 +42,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanty23&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishanty23&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishanty23&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishanty23&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishanty23&theme=tokyonight&utcOffset=5.5" />
-</p>
-
 ## 🤝 Connect With Me
 
 <p align="left">
