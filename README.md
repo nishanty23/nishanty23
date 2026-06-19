@@ -37,7 +37,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishanty23&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanty23&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanty23&theme=tokyonight" />
 </p>
 
 ## 🤝 Connect With Me
