@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nishanty23.nishanty23" />
 </p>
 
 ⭐️ From [nishanty23](https://github.com/nishanty23)
