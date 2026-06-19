@@ -36,6 +36,10 @@
 <img src="https://streak-stats.demolab.com?user=nishanty23&theme=tokyonight&cache_seconds=600" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishanty23&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
 ## 🤝 Connect With Me
 
 <p align="left">
