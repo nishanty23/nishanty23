@@ -52,4 +52,8 @@
 <img src="https://komarev.com/ghpvc/?username=nishanty23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+![](https://komarev.com/ghpvc/?username=nishanty23&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=nishanty23&label=Profile+Views&color=0e75b6&style=flat&v=1)
+
 ⭐️ From [nishanty23](https://github.com/nishanty23)
