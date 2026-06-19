@@ -52,6 +52,8 @@ Android grievance management application that streamlines complaint submission, 
 
 ## 📋 Profile Summary
 
+## 📊 GitHub Overview
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanty23&theme=tokyonight" />
 </p>
