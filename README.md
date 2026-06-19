@@ -36,12 +36,6 @@
 <img src="https://streak-stats.demolab.com?user=nishanty23&theme=tokyonight&cache_seconds=600" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanty23&theme=tokyo-night&hide_border=true" />
-</p>
-
 ## 📋 Profile Summary
 
 <p align="center">
