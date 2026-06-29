@@ -25,7 +25,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nishanty23/nishanty23/output/github-contribution-grid-snake-dark.svg" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanty23&show_icons=true&theme=tokyonight&cache_seconds=600"/> 
 </p>
 
 <p align="center">
