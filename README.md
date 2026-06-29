@@ -24,12 +24,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishanty23&theme=tokyonight" />
-</p>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanty23&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nishanty23&theme=tokyonight&margin-w=15" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanty23&theme=tokyo-night" />
 </p>
 
 <p align="center">
