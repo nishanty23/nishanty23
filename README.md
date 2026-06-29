@@ -24,16 +24,8 @@
 
 ## 📊 GitHub Stats
 
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishanty23&theme=tokyonight&margin-w=15" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanty23&theme=tokyo-night" />
+  <img src="https://raw.githubusercontent.com/nishanty23/nishanty23/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
