@@ -25,7 +25,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanty23&show_icons=true&theme=tokyonight&cache_seconds=600"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanty23&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=600"/>
 </p>
 
 <p align="center">
