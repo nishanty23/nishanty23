@@ -29,6 +29,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanty23&theme=tokyonight" />
+</p>
+
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanty23&layout=compact&theme=tokyonight&cache_seconds=600"/>
 </p>
 
