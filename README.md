@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=nishanty23&theme=tokyonight&cache_seconds=600" />
+<img src="https://streak-stats.demolab.com?user=nishanty23&theme=tokyonight&cache_seconds=500" />
 </p>
 
 ## 🤝 Connect With Me
