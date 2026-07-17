@@ -23,7 +23,7 @@
 </p>
 
 ## 📊 GitHub Stats
-
+<!--
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanty23&show_icons=true&theme=tokyonight&cache_seconds=600"/> 
 </p>
@@ -31,6 +31,7 @@
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanty23&layout=compact&theme=tokyonight&cache_seconds=600"/>
 </p>
+-->
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=nishanty23&theme=tokyonight&cache_seconds=600" />
